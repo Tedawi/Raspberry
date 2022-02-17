@@ -44,7 +44,6 @@ No text output. Two new records are inserted in the database when the script is 
 '''
 
 
-
 import sqlite3
 import sys
 import Adafruit_DHT
